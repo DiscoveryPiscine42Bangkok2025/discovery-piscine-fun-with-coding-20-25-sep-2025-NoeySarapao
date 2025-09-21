@@ -1,3 +1,1 @@
-$>./count_files.sh | cat -e
-42$
-$>
+ls -1 | wc -l
