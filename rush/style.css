@@ -1,11 +1,9 @@
-/* โหลดฟอนต์จาก Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
-
-/* กำหนดให้ทุก element ใช้ฟอนต์นี้ */
-body {
   font-family: 'Manrope', Manrope;
 }
 
 /* Simple custom styles */
 body { padding-top: 70px; }
 img[alt="Your photo"] { max-width: 180px; }
+body {
+  background-color: #fdf5e6; /* สีครีมอ่อน */
+}
